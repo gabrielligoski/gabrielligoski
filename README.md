@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel Ligoski - @bugabugawawa
+- 👋 Hi, I’m Gabriel Ligoski - @gabrielligoski
 - 👀 I’m interested in Java, react and ML.
 - 🌱 I’m currently learning Java and react.
 - 💞️ I’m looking to collaborate on Java projects.
