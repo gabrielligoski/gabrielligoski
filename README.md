@@ -1,5 +1,5 @@
 ## 🏆 Certifications:
-[![Java](https://img.shields.io/static/v1?message=Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)]([https://instagram.com/ligoska](https://www.credly.com/badges/013f90ba-7a1b-4b76-b740-b767048fdac8?source=linked_in_profile))
+[![Java](https://img.shields.io/static/v1?message=Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer&logo=oracle&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)](https://www.credly.com/badges/013f90ba-7a1b-4b76-b740-b767048fdac8?source=linked_in_profile)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ligoska) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-ligoski) 
